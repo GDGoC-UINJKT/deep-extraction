@@ -42,4 +42,4 @@ To incentivize a swift resolution to this case, a reward has been issued for the
 
 Once you have successfully compiled the required dossier and formatted your flag, submit your final report here:
 
-**[[Submit the Flag Here](https://forms.gle/yd9cqy2E21cfdFr78)]**
+**[[Submit the Flag Here](https://forms.gle/yb23CqnkMRp6y6NX8)]**
